@@ -1,0 +1,11 @@
+.heading {
+	color: red;
+}
+
+#first_h1 {
+	background-color: antiquewhite;
+}
+[text] {
+	border: 2px solid blue;
+	text-align: center;
+}
